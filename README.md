@@ -13,3 +13,4 @@ For any questions & enquiries contact [Beknar Danabek](https://t.me/beknar).
 • [Dastan Kumar](https://github.com/kdastan)
 • [Sanzhar Alim](https://github.com/alimsanzhar)
 • [Ainur Baizhumanova](https://github.com/ainurb)
+• [Almas Zainoldin](https://github.com/zainoldin)
