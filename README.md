@@ -14,3 +14,4 @@ For any questions & enquiries contact [Beknar Danabek](https://t.me/beknar).
 • [Sanzhar Alim](https://github.com/alimsanzhar)
 • [Ainur Baizhumanova](https://github.com/ainurb)
 • [Almas Zainoldin](https://github.com/zainoldin)
+• [Nurbek Ismagulov](https://github.com/NurbekIsmagulov)
