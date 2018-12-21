@@ -15,3 +15,4 @@ For any questions & enquiries contact [Beknar Danabek](https://t.me/beknar).
 • [Ainur Baizhumanova](https://github.com/ainurb)
 • [Almas Zainoldin](https://github.com/zainoldin)
 • [Nurbek Ismagulov](https://github.com/NurbekIsmagulov)
+•[Ilyas Zholdasbayev](https://github.com/ileezyy)
